@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcd7de47.css",
-    "main.js": "/static/js/main.7c4f83d4.js",
-    "static/js/453.59b8a61b.chunk.js": "/static/js/453.59b8a61b.chunk.js",
-    "static/media/jpg": "/static/media/175b85183ecedb529e14.24bab5d633e36ca8d17e.jpg",
-    "index.html": "/index.html",
-    "main.dcd7de47.css.map": "/static/css/main.dcd7de47.css.map",
-    "main.7c4f83d4.js.map": "/static/js/main.7c4f83d4.js.map",
-    "453.59b8a61b.chunk.js.map": "/static/js/453.59b8a61b.chunk.js.map"
+    "main.css": "/alx-dashboard/static/css/main.dcd7de47.css",
+    "main.js": "/alx-dashboard/static/js/main.9947fb00.js",
+    "static/js/453.59b8a61b.chunk.js": "/alx-dashboard/static/js/453.59b8a61b.chunk.js",
+    "static/media/jpg": "/alx-dashboard/static/media/175b85183ecedb529e14.24bab5d633e36ca8d17e.jpg",
+    "index.html": "/alx-dashboard/index.html",
+    "main.dcd7de47.css.map": "/alx-dashboard/static/css/main.dcd7de47.css.map",
+    "main.9947fb00.js.map": "/alx-dashboard/static/js/main.9947fb00.js.map",
+    "453.59b8a61b.chunk.js.map": "/alx-dashboard/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcd7de47.css",
-    "static/js/main.7c4f83d4.js"
+    "static/js/main.9947fb00.js"
   ]
 }
