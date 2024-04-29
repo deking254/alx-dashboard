@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "homepage": "https://deking254.github.io/alx-dashboard"
+    "homepage": "."
   },
   "eslintConfig": {
     "extends": [
